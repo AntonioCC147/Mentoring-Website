@@ -1,0 +1,50 @@
+.navbar {
+    background-color: transparent;
+}
+
+.navbarCenter {
+    display: flex;
+    justify-content: right;
+    flex-grow: 1;
+
+    font-size: 1.3rem;
+}
+
+.navbarText {
+    margin: 0px 20px 0px 20px;
+    font-weight: bolder !important;
+
+    color: white !important;
+}
+
+.navbar>.container {
+    text-align: right;
+}
+
+.imageLogo {
+    width: 5%;
+}
+
+@media only screen and (max-width: 1200px) {
+    .imageLogo {
+        width: 10%;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .imageLogo {
+        width: 10%;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .imageLogo {
+        width: 10%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .imageLogo {
+        width: 20%;
+    }
+}
