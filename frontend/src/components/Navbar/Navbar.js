@@ -11,7 +11,7 @@ export default function NavbarComponent() {
     return (
         <Navbar collapseOnSelect expand="xl" className="navbar">
             <Container>
-                <img src={Logo} className="imageLogo"/>
+                <img src={Logo} className="imageLogo" alt="Logo"/>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto navbarCenter">

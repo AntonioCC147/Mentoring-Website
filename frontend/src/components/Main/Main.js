@@ -21,7 +21,7 @@ export default function Main() {
                     <Button variant="outline-light" className="button">Despre Mine</Button>{' '}
                 </Col>
                 <Col sm={6} className="imageContainer">
-                    <img src={Avatar} className="imageMain"/>
+                    <img src={Avatar} className="imageMain" alt="Avatar"/>
                 </Col>
             </Row>
         </div>

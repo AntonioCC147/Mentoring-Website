@@ -1,13 +1,15 @@
 import './App.css';
 
-import Home from './pages/Home/Home';
+import Main from './components/Main/Main';
+import About from './components/About/About';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function App() {
     return (
         <div className="roboto">
-            <Home/>
+            <Main/>
+            <About/>
         </div>
     )
 }
