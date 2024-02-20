@@ -20,7 +20,7 @@ export default function Footer() {
                     </div>
                 </Col>
                 <Col sm={3} className="centrateFooter">
-                <div className="d-flex justify-content-center align-items-center flex-column">
+                    <div className="d-flex justify-content-center align-items-center flex-column">
                         <div>
                             <p className="footerText">Mă poți contacta și la telefon:</p>
                         </div>
@@ -37,13 +37,13 @@ export default function Footer() {
                             </p>
                         </div>
                         <div className="d-flex justify-content-center">
-                            <a href="https://discord.gg/k74gZRTj" target="_blank">
+                            <a href="https://discord.gg/k74gZRTj" target="_blank" rel="noreferrer">
                                 <img src={Discord} className="socialIcon" alt="Discord"/>
                             </a>
-                            <a href="https://www.instagram.com/robert.bmb/" target="_blank">
-                                <img src={Instagram} target="_blank" className="socialIcon" alt="Instagram"/>
+                            <a href="https://www.instagram.com/robert.bmb/" target="_blank" rel="noreferrer">
+                                <img src={Instagram} className="socialIcon" alt="Instagram"/>
                             </a>
-                            <a href="https://www.facebook.com/meditatii.informatica.2024" target="_blank" >
+                            <a href="https://www.facebook.com/meditatii.informatica.2024" target="_blank" rel="noreferrer">
                                 <img src={Facebook} className="socialIcon" alt="Facebook"/>
                             </a>
                         </div>
@@ -53,7 +53,7 @@ export default function Footer() {
             <Row>
                 <div className="centrateCopyRight">
                     <p className="copyRight">© {new Date().getFullYear()} Copyright | Website creat de{' '}
-                        <a href="https://antoniocrantea.software/" target="_blank" style={{color: "#808080"}}>
+                        <a href="https://antoniocrantea.software/" target="_blank" style={{color: "#808080"}} rel="noreferrer">
                             Crantea Antonio-Cristian
                         </a>
                     </p>
