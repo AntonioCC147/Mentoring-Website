@@ -26,3 +26,8 @@
 
     color: #a8a8a8;
 }
+
+.buttonAbout{
+    margin: 5% 0% 10% 0%;
+    padding: 10px 50px 10px 50px !important;
+}
