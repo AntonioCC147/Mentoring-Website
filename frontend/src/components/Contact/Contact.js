@@ -83,7 +83,7 @@ export default function Contact() {
                             </Row>
                             <Row>
                                 <b><label htmlFor="message" className="contactText">Mesaj:</label></b>
-                                <Field as="textarea" name="message" className="textarea form-control formAppearance" rows="9" cols="50" placeholder="Scrie aici mesajul..."/>
+                                <Field as="textarea" name="message" className="textarea form-control formAppearance" rows="6" cols="50" placeholder="Scrie aici mesajul..."/>
                                 <ErrorMessage name="message" component="div" className="error-message" />
                             </Row>
                             <Row>
