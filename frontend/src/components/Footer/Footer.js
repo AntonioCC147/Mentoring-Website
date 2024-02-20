@@ -13,7 +13,7 @@ export default function Footer() {
             <Row className="centrateFooter">
                 <Col sm={3} className="centrateFooter">
                     <div>
-                        <a href="#"><p className="footerText">Acasă</p></a>
+                        <a href="/"><p className="footerText">Acasă</p></a>
                         <a href="#despre"><p className="footerText">Despre mine</p></a>
                         <a href="#servicii"><p className="footerText">Servicii</p></a>
                         <a href="#faq"><p className="footerText">FAQ</p></a>
