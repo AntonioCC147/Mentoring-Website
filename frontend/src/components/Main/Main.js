@@ -18,7 +18,7 @@ export default function Main() {
                     <p className="titleMain1">Salutare tuturor! Sunt</p>
                     <p className="titleMain2">Robert, meditator la Informatică și student la Facultatea de Inginerie în Limbi Străine</p>
                     <p className="titleMain3">Aici ar trebuie să vină o scurtă descriere despre persoana ta, orice consideri relevant.</p>
-                    <Button variant="outline-light" className="buttonMain" href="/">Despre Mine</Button>
+                    <Button variant="outline-light" className="buttonMain" href="#despre">Despre Mine</Button>
                 </Col>
                 <Col sm={12} md={6} className="imageContainer">
                     <img src={Avatar} className="imageMain" alt="Avatar"/>

@@ -15,10 +15,10 @@ export default function NavbarComponent() {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto navbarCenter">
-                        <Nav.Link href="/" className="navbarText">DESPRE MINE</Nav.Link>
-                        <Nav.Link href="/" className="navbarText">SERVICII</Nav.Link>
-                        <Nav.Link href="/" className="navbarText">FAQ</Nav.Link>
-                        <Nav.Link href="/" className="navbarText">CONTACT</Nav.Link>
+                        <Nav.Link href="#despre" className="navbarText">DESPRE MINE</Nav.Link>
+                        <Nav.Link href="#servicii" className="navbarText">SERVICII</Nav.Link>
+                        <Nav.Link href="#faq" className="navbarText">FAQ</Nav.Link>
+                        <Nav.Link href="#contact" className="navbarText">CONTACT</Nav.Link>
                     </Nav>
                     <Nav/>
                 </Navbar.Collapse>

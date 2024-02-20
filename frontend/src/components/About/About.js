@@ -32,7 +32,7 @@ export default function About() {
                         informatică la fel de mult ca mine! Te aștept și pe tine să începem pregătirea!
                     </p>
                     <div className="d-flex align-items-center justify-content-center">
-                        <Button variant="outline-light" className="buttonAbout" href="/">Contactează-mă</Button>
+                        <Button variant="outline-light" className="buttonAbout" href="#contact">Contactează-mă</Button>
                     </div>
                 </Col>
             </Row>
