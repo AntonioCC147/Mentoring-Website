@@ -1,0 +1,46 @@
+.containerContact {
+    padding: 3% 25% 0% 25%;
+
+    min-height: 80vh;
+
+    background: transparent;
+    background-color: #000000;
+}
+
+.titleContact {
+    text-align: center;
+    font-size: 3rem;
+
+    color: #D4D0CA;
+}
+
+.contactText {
+    padding-top: 10px;
+
+    text-align: center;
+    font-size: 1.1rem;
+
+    color: #D4D0CA;
+}
+
+.formAppearance {
+    width: 300px;
+
+    border: 1px solid #4b4b4b !important;
+
+    background-color: gainsboro;
+    font-weight: 700 !important;
+
+    color: black !important;
+}
+
+.centerButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonContact{
+    margin: 2% 0% 2% 0%;
+    padding: 10px 50px 10px 50px !important;
+}

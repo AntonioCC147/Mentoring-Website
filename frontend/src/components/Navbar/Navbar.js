@@ -18,7 +18,7 @@ export default function NavbarComponent() {
                         <Nav.Link href="#despre" className="navbarText">DESPRE MINE</Nav.Link>
                         <Nav.Link href="#servicii" className="navbarText">SERVICII</Nav.Link>
                         <Nav.Link href="#faq" className="navbarText">FAQ</Nav.Link>
-                        <Nav.Link href="/" className="navbarText">CONTACT</Nav.Link>
+                        <Nav.Link href="#contact" className="navbarText">CONTACT</Nav.Link>
                     </Nav>
                     <Nav/>
                 </Navbar.Collapse>
