@@ -1,0 +1,48 @@
+.containerServices{
+    padding: 3% 10% 0% 10%;
+
+    min-height: 100vh;
+
+    background-image: url("../../assets/images/BackgroundServices.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 20%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titleServices {
+    text-align: center;
+
+    font-size: 3rem;
+
+    color: #181A1B;
+}
+
+.cardsPosition {
+    padding-top: 5%;
+}
+
+.cardsStyle {
+    min-height: 450px;
+    margin-bottom: 5%;
+}
+
+.cardsImage {
+    width: 200px !important;
+}
+
+.cardTitle {
+    text-align: center;
+
+    font-size: 1.5rem !important;
+}
+
+.cardDescription {
+    padding: 5%;
+
+    text-align: justify;
+    font-size: 1rem !important;
+    font-weight: 100;
+
+    color: #6c6c6c;
+}

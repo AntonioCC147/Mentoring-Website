@@ -15,10 +15,10 @@ export default function Main() {
             <NavbarComponent/>
             <Row>
                 <Col sm={6}>
-                    <p className="title1">Salutare tuturor! Sunt</p>
-                    <p className="title2">Robert, meditator la Informatică și student la Facultatea de Inginerie în Limbi Străine</p>
-                    <p className="title3">Aici ar trebuie să vină o scurtă descriere despre persoana ta, orice consideri relevant.</p>
-                    <Button variant="outline-light" className="button">Despre Mine</Button>{' '}
+                    <p className="titleMain1">Salutare tuturor! Sunt</p>
+                    <p className="titleMain2">Robert, meditator la Informatică și student la Facultatea de Inginerie în Limbi Străine</p>
+                    <p className="titleMain3">Aici ar trebuie să vină o scurtă descriere despre persoana ta, orice consideri relevant.</p>
+                    <Button variant="outline-light" className="buttonMain">Despre Mine</Button>{' '}
                 </Col>
                 <Col sm={6} className="imageContainer">
                     <img src={Avatar} className="imageMain" alt="Avatar"/>

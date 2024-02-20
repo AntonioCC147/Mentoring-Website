@@ -4,5 +4,25 @@
     min-height: 100vh;
 
     background: transparent;
-    background-image: linear-gradient(90deg, rgb(4, 4, 4) 0%, rgb(50, 55, 57) 73%);
+    background-color: #181A1B;
+}
+
+.imageAbout {
+    width: 100%;
+}
+
+.titleAbout1 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+
+    color: #D4D2D0;
+}
+
+.descriptionAbout {
+    font-size: 1.1rem;
+    text-align: justify;
+
+    margin-bottom: 5%;
+
+    color: #a8a8a8;
 }
