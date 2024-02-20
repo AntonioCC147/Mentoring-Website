@@ -42,6 +42,10 @@
     transform: scale(1.05);
 }
 
+.card-header {
+    border: none !important;
+}
+
 .cardAnswer {
     margin-left: 5%;
 }
