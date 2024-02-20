@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Care este prețul unei ședințe?",
+        "response": "Prețul unei ședințe este de 70 de lei."
+    },
+    {
+        "question": "Cât durează o ședință?",
+        "response": "O ședință durează o oră și jumătate."
+    },
+    {
+        "question": "Cum decurge o ședință?",
+        "response": "La pregătire lucrăm subiecte în funcție de nivelul elevului sau pentru ce se pregătește."
+    },
+    {
+        "question": "De cât timp mă ocup de meditații?",
+        "response": "Pregătesc elevi de un an."
+    },
+    {
+        "question": "Ce rezultate au elevii tăi?",
+        "response": "Pâna acum nu am avut persoane ce nu și-au atins ținta."
+    }
+]

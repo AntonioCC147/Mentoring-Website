@@ -15,7 +15,7 @@ export default function About() {
                     <img src={ImageAbout} className="imageAbout" alt="Avatar"/>
                 </Col>
                 <Col sm={12} md={6}>
-                    <p className="titleAbout1">Ceva despre mine, ei bine...</p>
+                    <p className="titleAbout1">Ceva despre mine...</p>
                     <p className="descriptionAbout">
                         Hey there! Eu sunt Apostol George-Robert, un tip din București care adorătotce ține de informatică și
                         tehnologie! Sunt student la Universitatea Politehnica, la facultatea FILS (Facultatea de Inginerie în
