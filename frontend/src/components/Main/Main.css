@@ -46,3 +46,7 @@
     margin: 5% 0% 10% 0%;
     padding: 10px 50px 10px 50px !important;
 }
+
+.buttonMain:hover {
+    transform: scale(1.05);
+}

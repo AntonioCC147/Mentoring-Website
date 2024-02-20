@@ -44,3 +44,7 @@
     margin: 3% 0% 3% 0%;
     padding: 10px 50px 10px 50px !important;
 }
+
+.buttonContact:hover {
+    transform: scale(1.05);
+}
