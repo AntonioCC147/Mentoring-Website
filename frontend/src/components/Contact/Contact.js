@@ -31,7 +31,7 @@ export default function Contact() {
     const [isFormSubmitted, setIsFormSubmitted] = useState(false);
 
     const sendEmail = (values) => {
-        emailjs.send('service_8ikvw41', 'template_2o06wrp', values, 'wgJFpA_4E1G_XA6V-')
+        emailjs.send('service_gc6mt9w', 'template_zxt4u2b', values, 'eHBC55-naAmnbPDwl')
             .then((result) => {
                 console.log(result.text);
                 setIsFormSubmitted(true);
