@@ -36,7 +36,7 @@
 }
 
 .navbarText:hover::after {
-    transform: scaleX(1); /* La hover, linia va fi complet vizibilă */
+    transform: scaleX(1);
 }
 
 .navbar>.container {
